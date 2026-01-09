@@ -92,11 +92,10 @@ En el marco del hackathon, mis aportes se enfocaron en la experiencia de autenti
 ## 📸 Screenshots <a name="screenshots"></a>
 > Las capturas están alojadas dentro del repositorio para facilitar la revisión.
 
-![Login](docs/screenshots/login.png)
-![Registro](docs/screenshots/register.png)
-![Recuperar contraseña](docs/screenshots/recover-password.png)
-![Home](docs/screenshots/home.png)
-![Calendario / Turnero](docs/screenshots/calendar.png)
+![Login](frontend/public/screenshots/login.png)
+![Registro](frontend/public/screenshots/register.png)
+![Recuperar contraseña](frontend/public/screenshots/recuperarcontrasenia.png)
+![Calendario](frontend/public/screenshots/calendario.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
