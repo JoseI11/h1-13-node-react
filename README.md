@@ -66,7 +66,7 @@
 <details>
   <summary>Database</summary>
   <ul>
-    <li><a href="https://dev.mysql.com/">MySQL</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
